@@ -1,0 +1,50 @@
+.navbar navbar-expand-lg{
+    color: black;
+}
+.favicon{
+    font-weight: 100px;
+    color:#427900 ;
+}
+/* Style all font awesome icons */
+.fa {
+    padding: 15px;
+    font-size: 20px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+  }
+  /* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+    background:  #316DC3;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background:  #316DC3;
+    color: white;
+  }
+  /* instagram */
+.fa-instagram {
+    background:  #316DC3;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-youtube {
+    background:  #316DC3;
+    color: white;
+  }
+  /* whatsapp */
+.fa-whatsapp {
+    background:;
+    color:greenyellow;
+  }
+
+
+
+
+ 
+  

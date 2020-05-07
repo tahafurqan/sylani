@@ -1,0 +1,31 @@
+body{font-family: sans-serif;}
+.container{background-color: #316DC3;;}
+.fa {
+    padding: 20px;
+    /* font-size: 20px;
+    width: 20px; */
+    
+  }
+  .row{background-color: #316DC3;}
+
+  .fa-facebook {
+    background:#316DC3;
+    color: white;
+  }
+  .fa-twitter {
+    background: #316DC3;
+    color: white;
+width: 10px;
+height: 10px; }
+.fa-instagram{
+background: #316DC3;
+color: white; }
+.fa-youtube{background-color: #316DC3;
+color: white;}
+.fa-whatsapp{background-color:#316DC3;
+color: white;}
+.col-md-6{font-size: small;
+color:white;}
+.don{ font-size: small;
+display: inline;}
+
